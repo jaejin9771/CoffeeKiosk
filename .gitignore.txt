@@ -11,6 +11,8 @@
 *.o
 *.obj
 
+CoffeKiosk/x64/
+
 # Precompiled Headers
 *.gch
 *.pch
