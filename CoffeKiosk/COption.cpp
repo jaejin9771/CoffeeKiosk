@@ -136,7 +136,7 @@ void COption::OnBnClickedButtOrder()
 		if (m_CheckBox_Shot2)
 			shot = "2";
 
-		pMenuDlg->SaveOrder(IDD_Option.m_CheckBox_SizeM, OptionDialog.m_CheckBoc_SizeUp, OptionDialog.m_CheckBox_Shot0, OptionDialog.m_CheckBox_Shot1, OptionDialog.m_CheckBox_Shot2, OptionDialog.quantity);
+		
 	}
 
 	CDialog::OnOK();
